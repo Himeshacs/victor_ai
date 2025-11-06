@@ -2,13 +2,12 @@
 
 ## Features
 
--Blog post grid with pagination
--Search posts by title
--Filter by categories and authors
--Sort by date or title
--URL state management
--Mobile responsive
-
+- Blog post grid with pagination
+- Search posts by title
+- Filter by categories and authors
+- Sort by date or title
+- URL state management
+- Mobile responsive
 - Loading states & error handling
 
 ## Tech Stack
